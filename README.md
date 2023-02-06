@@ -16,7 +16,7 @@ This is an application that supports the booking of airline tickets. The system 
 - download packages https://wiki.qt.io/PySide_Binaries_MacOSX 
 - install Python module: *brew install pyqt*
 
-#### Linux(Ubuntu/Debian):
+#### Linux (Ubuntu/Debian):
 - *sudo apt-get install python3-pyqt5*
 
 ### Python compilation
