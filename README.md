@@ -7,7 +7,7 @@ This is an application that supports the booking of airline tickets. The system 
 
 ## How to run project
 
-### Download Qt Designer
+### Download *Qt Designer*
 #### Windows
 - download: https://www.qt.io/download
 - *pip install pyqt5* (Python 3.6 or higher)
